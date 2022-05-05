@@ -6,6 +6,6 @@ Made simple and easy to use.
 
 Gallery working: 🙇‍♂️
 
-![Image text](https://github.com/Mr-Rincon/Photo_Gallery/blob/main/img/photo_gallery.PNG)
+![Image text](https://github.com/Mr-Rincon/Horizontal-Photo-Gallery/blob/main/img/gallery.PNG)
 
 ⌨️🖱 Enjoy coding!!
